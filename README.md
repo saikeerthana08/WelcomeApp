@@ -1,4 +1,4 @@
-In this project, let's build a **Welcome App** by applying the concepts we have learned till now.
+In this project, I build a **Welcome App**.
 
 ### Refer to the image below:
 
@@ -18,49 +18,30 @@ In this project, let's build a **Welcome App** by applying the concepts we have 
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionalities added</summary>
 <br/>
 
 The app must have the following functionalities
 
-- When the page is opened, a button should be displayed with text content as **Subscribe**
+- When the page is opened, a button is displayed with text content as **Subscribe**
 - When the **Subscribe** button is clicked
-  - The text content in the **Subscribe** button should be changed to **Subscribed**
+  - The text content in the **Subscribe** button is changed to **Subscribed**
 - When the **Subscribed** button is clicked
-  - The text content in the **Subscribed** button should be changed to **Subscribe**
+  - The text content in the **Subscribed** button is changed to **Subscribe**
 
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>Implemented Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/components/Welcome/index.js`
 - `src/components/Welcome/index.css`
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-<br/>
-**The following instructions are required for the tests to pass**
-
-- Achieve the given layout using only Conditional Rendering
 </details>
 
 ### Resources
@@ -82,10 +63,3 @@ Use these files to complete the implementation:
 - Bree Serif
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
